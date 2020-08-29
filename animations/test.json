@@ -1,0 +1,28 @@
+{
+	"length": 90,
+	"frames": [
+		{
+			"index": 1,
+			"props": {
+				"scale": 0,
+				"rotation": 0
+			}
+		},
+		{
+			"index": 60,
+			"interp": "pow2In",
+			"props": {
+				"scale": 1,
+				"color": "#ffffff"
+			}
+		},
+		{
+			"index": 90,
+			"props": {
+				"scale": 1,
+				"color": "#ff000088",
+				"rotation": 720
+			}
+		}
+	]
+}
