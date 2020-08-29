@@ -3,6 +3,7 @@
 	"frames": [
 		{
 			"index": 1,
+			"interp": "exp10",
 			"props": {
 				"scale": 0,
 				"rotation": 0
@@ -19,7 +20,6 @@
 		{
 			"index": 90,
 			"props": {
-				"scale": 1,
 				"color": "#ff000088",
 				"rotation": 720
 			}
