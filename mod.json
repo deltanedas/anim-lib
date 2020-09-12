@@ -2,6 +2,7 @@
 	"name": "anim-lib",
 	"displayName": "[stat]Animation[] Library",
 	"description": "Library mod that adds element animating tools.",
-	"version": "1.0.1",
-	"hidden": true
+	"version": "1.1.1",
+	"hidden": true,
+	"minGameVersion": 105
 }
