@@ -6,7 +6,8 @@
 			"interp": "exp10",
 			"props": {
 				"scale": 0,
-				"rotation": 0
+				"rotation": 0,
+				"origin": 0.5
 			}
 		},
 		{

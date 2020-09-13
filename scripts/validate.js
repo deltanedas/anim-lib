@@ -37,6 +37,9 @@ const dealiasProps = (fbase, props) => {
 	check("size", size => {
 		props.width = props.height = size;
 	});
+	check("origin", ori => {
+		props.originX = props.originY = ori;
+	});
 };
 
 const validateProps = (anim, frames) => {
