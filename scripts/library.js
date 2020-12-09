@@ -3,7 +3,7 @@ const anim = {
 	animating: []
 };
 module.exports = anim
-this.global.anim = anim;
+global.anim = anim;
 
 anim.createHandle = require("anim-lib/handle");
 

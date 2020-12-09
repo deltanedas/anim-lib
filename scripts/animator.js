@@ -1,4 +1,4 @@
-const anim = this.global.anim;
+const anim = global.anim;
 
 const animator = {
 	process() {
